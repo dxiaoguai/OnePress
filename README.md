@@ -1,2 +1,2 @@
 # OnePress
-Java开源的CMS内容管理系统
+开源的Java CMS内容管理系统
